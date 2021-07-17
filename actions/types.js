@@ -1,0 +1,10 @@
+export const student_list="student_list";
+export const teacher_list="teacher_list";
+export const teacher_login="teacher_login";
+export const student_login="student_login";
+export const Student_filter="Student_filter";
+export const updation_marks="updation_marks";
+export const student_profile="student_profile";
+export const community_get="community_get"
+export const like_count="like_count";
+export const update_details="update_details"
